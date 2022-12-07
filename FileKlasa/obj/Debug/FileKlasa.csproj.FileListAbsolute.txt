@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\obj\Debug\FileKlasa.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\obj\Debug\FileKlasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\obj\Debug\FileKlasa.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\bin\Debug\FileKlasa.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\bin\Debug\FileKlasa.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\bin\Debug\FileKlasa.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\obj\Debug\FileKlasa.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\FileKlasa\obj\Debug\FileKlasa.pdb
